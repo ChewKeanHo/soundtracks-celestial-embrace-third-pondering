@@ -9,10 +9,10 @@ retry again. Here is the third version of another lovingly peaceful embrace.
 #electronicmusic #soundtrack #chillwave #chillout #femalevocal
 
   File: Audios/03_Celestial-Embrace-Third-Pondering.mp3
-  Size: 5951488         Blocks: 11624      IO Block: 4096   regular file
-Access: 2025-11-01 12:36:11.085531011 +0800
-Modify: 2025-11-01 12:34:40.981144577 +0800
-Change: 2025-11-01 12:34:40.981144577 +0800
+  Size: 5953536         Blocks: 11632      IO Block: 4096   regular file
+Access: 2025-11-14 15:51:02.604533265 +0800
+Modify: 2025-11-02 19:57:04.030922120 +0800
+Change: 2025-11-02 19:57:04.034922138 +0800
  Birth: 2025-07-20 11:53:33.846221347 +0800
 
 On Published Date: 2025-05-10
@@ -32,6 +32,7 @@ On YouTube since : 2025-06-08
 * [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
 * [Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf)
 * [Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
+* [20251030 UDIO Severances](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 
 
 
@@ -52,11 +53,15 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Celestial Embrace - Third Pondering
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-celestial-embrace-third-pondering
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title: Celestial Embrace - Third Pondering
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-celestial-embrace-third-pondering
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-05-10 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Video made in: https://vizzy.io/
+Procure: https://github.com/ChewKeanHo/soundtracks-celestial-embrace-third-pondering
 --------------------------------------------------------------------------------
 ```
 
